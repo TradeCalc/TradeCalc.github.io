@@ -2145,8 +2145,8 @@ textarea {
   background: var(--section-bg);
   font-family: var(--body-font);
   overflow: hidden;
-  padding: calc(3.4rem + 1vw) var(--page-margin);
-  margin: calc(2.55rem + 1vw) 0 0;
+  padding: 0;
+  margin: 0;
   text-align: center;
 }
 .footer__social svg {
@@ -2167,7 +2167,7 @@ textarea {
   font-size: 0.6789341556rem;
   letter-spacing: 1px;
   text-transform: uppercase;
-  padding: 1.7rem 0;
+  padding: 0.5rem 0;
 }
 .footer a {
   color: var(--white);
@@ -2386,4 +2386,9 @@ textarea {
   -webkit-transform: none;
       -ms-transform: none;
           transform: none;
+}
+.footer {
+  height: 100px;
+  padding: 0;
+  margin: 0;
 }
