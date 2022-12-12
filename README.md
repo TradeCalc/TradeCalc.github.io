@@ -1,2 +1,0 @@
-# TradeCalc.github.io
-Blog
