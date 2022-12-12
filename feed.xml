@@ -3,7 +3,7 @@
     <title>tradecalc-blog</title>
     <link href="https://tradecalc.github.io/feed.xml" rel="self" />
     <link href="https://tradecalc.github.io" />
-    <updated>2022-12-12T16:00:46+08:00</updated>
+    <updated>2022-12-12T16:18:35+08:00</updated>
     <author>
         <name>Matt</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="TradeCalc"/>
             <category term="Origins"/>
 
-        <updated>2022-12-12T16:00:46+08:00</updated>
+        <updated>2022-12-12T16:18:35+08:00</updated>
             <summary>
                 <![CDATA[
                     I’ve been fascinated by Crypto since 2011 and actively trading in this space since 2017. When I started to focus seriously on my trading, I quickly realised that I needed to automate the calculation of my position sizes to quickly and accurately manage my risk&hellip;
@@ -41,7 +41,7 @@
 <br>Matt Harvey<br>TradeCalc.au&nbsp;<br>
   </p>
 
-    <figure class="post__image post__image--full">
+    <figure class="post__image post__image--center">
       <img loading="lazy" src="https://tradecalc.github.io/media/posts/1/TradeCalc-Genesis-V4-Excel-2.jpg" height="577" width="677" alt=""  sizes="100vw" srcset="https://tradecalc.github.io/media/posts/1/responsive/TradeCalc-Genesis-V4-Excel-2-xs.jpg 300w ,https://tradecalc.github.io/media/posts/1/responsive/TradeCalc-Genesis-V4-Excel-2-sm.jpg 480w ,https://tradecalc.github.io/media/posts/1/responsive/TradeCalc-Genesis-V4-Excel-2-md.jpg 768w ,https://tradecalc.github.io/media/posts/1/responsive/TradeCalc-Genesis-V4-Excel-2-lg.jpg 1024w ,https://tradecalc.github.io/media/posts/1/responsive/TradeCalc-Genesis-V4-Excel-2-xl.jpg 1360w ,https://tradecalc.github.io/media/posts/1/responsive/TradeCalc-Genesis-V4-Excel-2-2xl.jpg 1600w">
       <figcaption>Original Excel based Trade Calculator</figcaption>
     </figure>
