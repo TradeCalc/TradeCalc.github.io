@@ -3,10 +3,33 @@
     <title>TradeCalc Blog</title>
     <link href="https://tradecalc.github.io/feed.xml" rel="self" />
     <link href="https://tradecalc.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2022-12-12T12:30:59+08:00</updated>
     <author>
         <name>Matt</name>
     </author>
     <id>https://tradecalc.github.io</id>
 
+    <entry>
+        <title>Test Post</title>
+        <author>
+            <name>Matt</name>
+        </author>
+        <link href="https://tradecalc.github.io/test-post/index.html"/>
+        <id>https://tradecalc.github.io/test-post/index.html</id>
+
+        <updated>2022-12-12T12:30:59+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Test content
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Test content
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>

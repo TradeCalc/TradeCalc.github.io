@@ -9,5 +9,19 @@
         "name": "Matt"
     },
     "items": [
+        {
+            "id": "https://tradecalc.github.io/test-post/index.html",
+            "url": "https://tradecalc.github.io/test-post/index.html",
+            "title": "Test Post",
+            "summary": "Test content",
+            "content_html": "\n  <p>\n    Test content\n  </p>",
+            "author": {
+                "name": "Matt"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-12-12T12:30:59+08:00",
+            "date_modified": "2022-12-12T12:30:59+08:00"
+        }
     ]
 }
